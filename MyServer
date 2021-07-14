@@ -2,7 +2,7 @@
   {
     "Name": "Amir Ali.",
     "Email": "azimi6370@gmail.com",
-    "Title": "test",
-    "Code": "TextView.setText(\"hello world\");"
+    "Title": "setText",
+    "Code": "textview.setText(\"your text\");"
   }
 ]
