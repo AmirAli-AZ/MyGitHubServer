@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Amir Ali.",
+    "Name": "Amir Ali",
     "Email": "azimi6370@gmail.com",
     "Title": "setText",
     "Code": "textview.setText(\"your text\");"
